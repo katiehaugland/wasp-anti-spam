@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WASP - Anti Spam\n"
+"POT-Creation-Date: 2013-09-23 14:27+0200\n"
+"PO-Revision-Date: 2013-09-23 15:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: C:\wamp\www\wp-content\plugins\wasp/init.php:147
+msgid "The field is empty, please fill it."
+msgstr "Le champ est vide, veuillez remplir."
+
+#: C:\wamp\www\wp-content\plugins\wasp/init.php:164
+msgid "This Email Address Is Not Valid."
+msgstr "Cette adresse email n'est pas valide."
+
+#: C:\wamp\www\wp-content\plugins\wasp/init.php:170
+msgid "There Is No Such Record In Our database"
+msgstr "Il n'existe pas de registre dans notre base"
+
+#: C:\wamp\www\wp-content\plugins\wasp/init.php:177
+msgid "Activation Email Sent."
+msgstr "Activation mail envoyé."
+
+#: C:\wamp\www\wp-content\plugins\wasp/init.php:180
+msgid ""
+"There Was An Error Sending The Email,\n"
+" Please Try Again."
+msgstr ""
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:7
+msgid "WASP Anti-Spam"
+msgstr "WASP Anti-Spam"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:23
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:33
+msgid "General Options"
+msgstr "Options générales"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:24
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:59
+msgid "Recaptcha Options"
+msgstr "Options de recaptcha"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:25
+msgid "Ban Options"
+msgstr "Options de Ban"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:26
+msgid "Customise Messages"
+msgstr "Messages aux besoins du client"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:27
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:89
+msgid "Import Export"
+msgstr "Import Export"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:34
+msgid ""
+"Enable User Activation By Email <a href=\"#\" tooltip=\"By default wordpress "
+"doesn't let the user choose password\n"
+"            and random password is sent to the user email, By enable this "
+"option, you will enable each register user to pick his own password so to "
+"verify his email address\n"
+"           he will get a unique url to his mailbox, and just after he will "
+"click it he can login to your site. This will help you ensure the unique "
+"identy and email of each new user \n"
+"           and take action in case for example of spammer by blocking is "
+"email address.\"><img src=\""
+msgstr ""
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:38
+msgid "Users <strong>NOT</strong> allowed to change there E-mail address"
+msgstr ""
+"Les utilisateurs <strong> PAS </ strong> autorisés à y changer l'adresse E-"
+"mail"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:40
+msgid "Enable EBK Contact Form 7 Integration "
+msgstr "Activer CFB Formulaire de contact 7 Intégration "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:43
+msgid "To wich user roles apply this protection?"
+msgstr ""
+"Autour de laquelle les rôles des utilisateurs appliquent cette protection?"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:46
+msgid ""
+"Activate EBK Protection For Comments.<a href=\"#\" tooltip=\"The idea beyond "
+"EBK his to prove you are real, so each\n"
+"            comment or messaging attempt must be verify, after the user "
+"submit one of the two he will get a uniqe url to his inbox, after clicking\n"
+"            the url the message is approved and get sent (Contact Form 7) OR "
+"publish (commenting system).\"><img src=\""
+msgstr ""
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:53
+msgid "Enable Auto Learn Mode "
+msgstr "Activer Auto Mode d'apprentissage "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:53
+msgid ""
+"Before auto delete of spam comment or unverifyed user the data will used by "
+"the plugin for blocking another registration or commenting."
+msgstr ""
+"Avant de suppression automatique des spams dans les commentaires ou "
+"utilisateur unverifyed les données seront utilisées par le plugin pour "
+"bloquer un autre enregistrement ou de commenter."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:54
+msgid ""
+"Time intervals To Delete Users From There Registration Date (in seconds). "
+msgstr ""
+"Les intervalles de temps pour supprimer des utilisateurs de là-bas Date "
+"d'inscription (en secondes). "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:55
+msgid "Time intervals To Delete Comments From Posting Date (in seconds). "
+msgstr ""
+"Les intervalles de temps de supprimer les commentaires Du Date d'affichage "
+"(en secondes). "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:60
+msgid "Recaptcha Public Key "
+msgstr "Récapitulation clé publique "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:60
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:61
+msgid ""
+"<b><i>You can get your key </i></b><a href=\"https://www.google.com/"
+"recaptcha/admin/create\"> Here</a>"
+msgstr ""
+"<b> <i> vous pouvez obtenir votre clé </ i> </ b> <a href=\"https://www."
+"google.com/recaptcha/admin/create\"> ici </ a>"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:61
+msgid "Recaptcha Private Key "
+msgstr "Récapitulation clé privée "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:62
+msgid "Enable Recaptcha For Registration "
+msgstr "Activer Récapitulation Pour inscription "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:63
+msgid "Enable Recaptcha For Login "
+msgstr "Activer Récapitulation pour la connexion "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:64
+msgid "Wich Users Roles Will SEE IT?"
+msgstr "Wich rôles des utilisateurs la verront?"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:65
+msgid "Recaptcha Themes"
+msgstr "Récapitulation Thèmes"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:65
+msgid "Choose recaptcha theme, apply only for commnents"
+msgstr "Choisissez thème recaptcha s'appliquer qu'aux commnents"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:68
+msgid "Enable Recaptcha For Comments "
+msgstr "Activer Récapitulation For Comments "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:76
+msgid "Ban users from register "
+msgstr "utilisateurs ban de registre "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:77
+msgid "Ban users from comment "
+msgstr "utilisateurs ban de commentaire "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:82
+msgid "Account Activation E-mail "
+msgstr "Activation du compte E-mail "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:83
+msgid "Comment Approve E-mail "
+msgstr "Commenter Approuver E-mail "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/admin.php:84
+msgid "Contact Form 7 Approve E-mail "
+msgstr "Formulaire de contact 7 Approuver E-mail "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/cf7.php:43
+#, php-format
+msgid "A message from the website %s:"
+msgstr "Un message sur le site %s :"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/cf7.php:54
+msgid "This message will be send ONLY by pressing the link in your email inbox"
+msgstr ""
+"Ce message sera envoyé en appuyant simplement sur le lien dans votre boîte e-"
+"mail"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/comment.php:51
+msgid "Ban"
+msgstr "Ban"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/comment.php:62
+msgid "There Was An Error Approving Your Comment, Please Contact Site Admin."
+msgstr ""
+"Il y avait une erreur d'approuver votre commentaire, merci de contacter Site "
+"Admin."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/comment.php:71
+msgid "There was a problem with the key OR no key found"
+msgstr "Il y avait un problème avec la clé ou aucune clé trouvé"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/comment.php:86
+msgid "Your comment is pending for approve in the website "
+msgstr "Votre commentaire est en attente pour approuver sur le site "
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/comment.php:90
+msgid ""
+"Your comment submitted successfully,<br> it will show ONLY after pressing "
+"the link in your email inbox."
+msgstr ""
+"Votre commentaire a présenté avec succès, AB, il affichera qu'après avoir "
+"appuyé sur le lien dans votre boîte email."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/comment.php:92
+msgid ""
+"There was a problem sending approve email, check you wrote you email address "
+"correct."
+msgstr ""
+"Il y avait un problème d'envoi approuver e-mail, vérifiez que vous avez "
+"écrit adresse e-mail correcte."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/comment.php:133
+#: C:\wamp\www\wp-content\plugins\wasp/inc/comment.php:143
+msgid "Error: You must fill a valid email address to post a comment."
+msgstr ""
+"Erreur: Vous devez renseigner une adresse email valide pour poster un "
+"commentaire."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/comment.php:150
+msgid "Your Email OR IP Address is BAN."
+msgstr "Votre e-mail ou l'adresse IP est Ban."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/comment.php:155
+msgid "Error: You didn't enter any comment."
+msgstr "Erreur: Vous n'avez pas saisi de commentaire."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/profile.php:40
+msgid "You are not allowed to change your email address."
+msgstr "Vous n'êtes pas autorisé à changer votre adresse e-mail."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/profile.php:50
+msgid "User Activation"
+msgstr "Activation de l'utilisateur"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/profile.php:54
+msgid "User Activation Status."
+msgstr "Activation User Status."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/profile.php:58
+msgid "User Activated."
+msgstr "Activée par l'utilisateur."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/profile.php:67
+#, php-format
+msgid ""
+"Your email address has not been updated yet. Please check your inbox at %s "
+"for a confirmation email."
+msgstr ""
+"Votre adresse de courriel n'a pas encore été mise à jour. S'il vous plaît "
+"vérifier votre boîte de réception à %s pour un email de confirmation."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/profile.php:79
+msgid "Active"
+msgstr "Actif"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:67
+msgid "Incorrect please try again"
+msgstr "Incorrect s'il vous plaît essayer à nouveau"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:69
+msgid "Enter the words above:"
+msgstr "Entrez les mots ci-dessus:"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:70
+msgid "Enter the numbers you hear:"
+msgstr "Entrez les chiffres que vous entendez:"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:74
+msgid "Get another CAPTCHA"
+msgstr "Obtenir un autre CAPTCHA"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:75
+msgid "Get an audio CAPTCHA"
+msgstr "Obtenez un CAPTCHA audio"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:76
+msgid "Get an image CAPTCHA"
+msgstr "Obtenez un CAPTCHA image"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:78
+msgid "Help"
+msgstr "Aide"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:99
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr "<strong> ERROR </ strong>: le champ username est vide."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:102
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr "<strong> ERROR </ strong>: Le champ mot de passe est vide."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:114
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:131
+msgid ""
+"<strong>ERROR</strong>: The reCAPTCHA wasn't entered correctly. Go back and "
+"try it again."
+msgstr ""
+"<strong> ERROR </ strong>: Le reCAPTCHA n'a pas été entré correctement. "
+"Revenez en arrière et essayez à nouveau."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/recaptcha.php:146
+msgid "Incorrect Recaptcha Entered, Please Try Again"
+msgstr "Incorrects Récapitulation Entrée, veuillez réessayer plus"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:43
+msgid "Password"
+msgstr "Mot de passe"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:47
+msgid "Repeat password"
+msgstr "Répéter mot de passe"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:50
+msgid "Strength indicator"
+msgstr "Indicateur de Force"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:51
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers and symbols like ! \" ? "
+"$ % ^ &amp; )."
+msgstr ""
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:60
+msgid "<strong>ERROR</strong>: Passwords must match"
+msgstr "<strong> ERROR </ strong>: Les mots de passe doivent correspondre"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:66
+msgid ""
+"If you leave password fields empty one will be generated for you. Password "
+"must be at least eight characters long."
+msgstr ""
+"Si vous laissez les champs de mot de passe vide vous sera généré pour vous. "
+"Mot de passe doit comporter au moins huit caractères."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:80
+msgid ""
+"Your email address is not activated, please go to your inbox and look \n"
+"\t\t\t\t\tfor\n"
+" the activation code email"
+msgstr ""
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:91
+msgid "Please check your email inbox for activation link."
+msgstr "Merci de vérifier votre boîte e-mail pour le lien d'activation."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:102
+msgid "<strong>ERROR</strong>: Your Email OR IP Address is BAN."
+msgstr "<strong> ERROR </ strong>: Votre e-mail ou l'adresse IP est BAN."
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:151
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr "Enregistrement d'un nouvel utilisateur sur votre site %s :"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:152
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:184
+#, php-format
+msgid "Username: %s"
+msgstr "Nom d'utilisateur: %s"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:153
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:155
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[ %s ] Enregistrement d'un nouvel utilisateur"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:185
+#, php-format
+msgid "Password: %s"
+msgstr "Mot de passe: %s"
+
+#: C:\wamp\www\wp-content\plugins\wasp/inc/register.php:187
+#, php-format
+msgid "[%s] Your username and password"
+msgstr "[ %s ] Votre nom d'utilisateur et mot de passe"
