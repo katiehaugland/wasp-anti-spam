@@ -12,13 +12,13 @@ A unique anti-spam solution to help you fight spam in registration, comments, fo
 
 == Description ==
 
-==PLEASE DO NOT USE THIS PLUGIN IF YOU DON'T HAVE REGULAR SITE BACKUP, THIS IS STABLE BUT THE FIRST RELEASE.==
+= PLEASE DO NOT USE THIS PLUGIN IF YOU DON'T HAVE REGULAR SITE BACKUP, THIS IS STABLE BUT THE FIRST RELEASE. =
 
 A unique anti-spam solution to help you fight spam in registration, comments, forms (Contact Form 7).
 When the user comment or using contact form 7 his comments or message will not sent or be visible until
 the user will press a unique link sent to him when he submited his message.
 
-=For Example:=
+= For Example: =
 Think like this i'm a spammer registering to your site, after register to your site i see a message about
 the need to activate my account, if i used fake email address this address will be blocked because it's never
 activated, if i used a real address i activated my account with success !
@@ -56,4 +56,4 @@ Plugin Features:
 == Changelog ==
 
 = 0.1 =
-This version fixes a security related bug.  Upgrade immediately.
+Initial Release.
